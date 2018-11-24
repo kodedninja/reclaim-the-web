@@ -3,7 +3,7 @@
 ### [https://brussels.seed.hex22.org/](https://brussels.seed.hex22.org/)
 ---
 # I'm a
-<div style="font-size: 4.1rem;">PEER</div>
+<div style="font-size: 4.1rem;" class="fwb">PEER</div>
 ---
 ### Centralized Earth
 ---
