@@ -2,8 +2,6 @@
 ---
 ### [https://brussels.seed.hex22.org/](https://brussels.seed.hex22.org/)
 ---
-<div style="font-size: 15rem;">?</div>
----
 # I'm a
 <div style="font-size: 4.1rem;">PEER</div>
 ---
@@ -131,7 +129,11 @@
 ---
 ## Hypercast
 ---
+![Hypercast screenshot](/assets/images/hypercast.png)
+---
 ## Cabal
+---
+![Cabal Desktop screenshot](/assets/images/cabal.png)
 ---
 
 ---

@@ -55,3 +55,7 @@
 27. contra
 
 28. ^ you can't force peers to upgrade/change, so protocol or data format changes may take a long time to be used by all peers (if ever)
+
+
+
+enoki: data doesn't leave your computer
