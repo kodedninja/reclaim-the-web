@@ -55,14 +55,6 @@
 ---
 ## dat:// is kind of like file://
 ---
-## The P2P Web embodies 3 principles:
----
-## ▪ Anybody can be a server.
-## ▪ Multiple computers can serve the same site.
-## ▪ There is no back end.
-
-##### <div class="mt2 tar"><a href="http://pfrazee.github.io/blog/what-is-the-p2p-web">Paul Frazee ― What is the P2P Web?</a></div>
----
 # Pro
 ---
 ### ▪ cannot be shut down
@@ -75,6 +67,14 @@
 ---
 ### ▪ slower (or no) network updates
 ### ▪ no peers = not available
+---
+## The P2P Web embodies 3 principles:
+---
+## ▪ Anybody can be a server.
+## ▪ Multiple computers can serve the same site.
+## ▪ There is no back end.
+
+##### <div class="mt2 tar"><a href="http://pfrazee.github.io/blog/what-is-the-p2p-web">Paul Frazee ― What is the P2P Web?</a></div>
 ---
 ### "Once integrated into a browser, these principles enable users to publish independently of services, and move between applications freely."
 
@@ -101,7 +101,7 @@
 ---
 ## Ridder
 ---
-#### <a href="dat://ridder.seed.hex22.org/">dat://ridder.seed.hex22.org/</a>
+#### <a href="dat://rdr.seed.hex22.org/">dat://rdr.seed.hex22.org/</a>
 ---
 ## Seeder
 ---
