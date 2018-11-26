@@ -7,7 +7,7 @@
 ---
 ### Centralized Earth
 ---
-<img src="dat://beakerbrowser.com/img/centralized-earth.svg/" alt="Image of Centralized Earth">
+![Image of Centralized Earth](https://beakerbrowser.com/img/centralized-earth.svg)
 ---
 ## http://
 ---
@@ -35,7 +35,7 @@
 ---
 ### P2P Earth
 ---
-<img src="dat://beakerbrowser.com/img/p2p-earth.svg/" alt="Image of peer-to-peer Earth">
+![Image of peer-to-peer Earth](https://beakerbrowser.com/img/p2p-earth.svg)
 ---
 ### "In a decentralized or peer-to-peer model, every peer is an equal authority in the network. Examples of peer-to-peer (p2p) procotols include bittorrent, bitcoin, or tor."
 
@@ -88,7 +88,7 @@
 ---
 ## ntain
 ---
-<img src="dat://hex22.org/content/blog/ntain/ntain.png" alt="Screenshot of ntain">
+![Screenshot of ntain](/assets/images/ntain.png)
 ---
 #### <a href="dat://b943260133be13ac0834202dd1bcc3552a4de997a7755cdd392f77d3e5712f6a/">dat://b943260133be13ac0834202dd1bcc3552a4de997a7755cdd392f77d3e5712f6a/</a>
 ---
@@ -105,7 +105,7 @@
 ---
 ## Seeder
 ---
-<img src="dat://newcomputers.group/images/seeder.jpg" alt="Seeder in action">
+![Seeder in action](/assets/images/seeder.jpg)
 ---
 # Currently
 ---

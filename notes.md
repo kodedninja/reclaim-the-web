@@ -1,5 +1,5 @@
 Introduction
-If you have a question just raise your hand, but keep the more complex topics for the debate after the talks.
+You can join in
 how did I got interested in the topic (messaging example at home)
 ^ Centralized Earth
 ^ + what if we remove one node + CDN = content delivery network
@@ -10,8 +10,8 @@ client server difference, servers can write to the network, gaining access by au
 who owns your data? what control do have over it? physically it's not yours. is your data reusable?
 big data. all data is stored and owned by a few "trusted parties"
 welcome to p2p earth (it's the same planet)
-p2p earth. no big red dot
-kappa
+p2p earth. no big red dot.
+kappa. 1999, napster. 2001, bittorrent
 client = server
 introducing the peer, you.
 everyone's a peer
@@ -52,7 +52,7 @@ hypercast
 cabal
 cabal
 not the end!
-is this production ready? talk about compatibility with http, smooth transition. introduce new, ground-breaking tech in our life
+is this production ready? talk about compatibility with http, smooth transition. introduce new, ground-breaking tech in our life without blocking old ones. you only need a static version of your site.
 researchers
 no world change
 it changes the web for you
