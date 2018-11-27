@@ -43,7 +43,7 @@
 ---
 ## Server = Client
 ---
-## <span class="tcgrey">~~Client = Server~~</span>
+## <span class="tcgrey">~~Server = Client~~</span>
 
 ## Peer
 ---
@@ -64,7 +64,7 @@
 ---
 ### ▪ No peers = not available.
 ### ▪ Slower network updates.
-### ▪ Opening up your computer for strangers.
+### ▪ Your computer is open for strangers (kinda).
 ---
 ## The P2P Web embodies 3 principles:
 ---
@@ -82,13 +82,15 @@
 ---
 ## It's like a no man's land for sites.
 ---
-## Applications use a different architecture than on HTTP.
+## Forget about how HTTP applications work.
 ---
 ### 1. There is no centralized database or user accounts.
 ---
 ### 2. Your data is stored locally in your filesystem.
 ---
 ### 3. You grant the application read/write permission.
+---
+![Loop](/assets/images/loop.png)
 ---
 # Platforms → Tools
 ---
@@ -166,3 +168,5 @@
 ##### <div class="mt2 tar">André Staltz</div>
 ---
 ## Are you my peer?
+---
+#### [https://are.na/hunor-karaman/for-reclaim-the-web](https://are.na/hunor-karaman/for-reclaim-the-web)
