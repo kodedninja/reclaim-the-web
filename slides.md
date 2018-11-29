@@ -7,13 +7,13 @@
 ---
 ## Client ― Server
 ---
+## http:// is just misused.
+---
 ![Image of network types](/assets/images/networks.png)
 ---
 ### "In a decentralized or peer-to-peer model, every peer is an equal authority in the network."
 
 ##### <div class="mt2 tar">https://github.com/kappa-db/workshop</div>
----
-## http:// is just misused.
 ---
 ## Client = Server
 ---
@@ -69,7 +69,7 @@
 ## Rotonde
 <br/>
 
-#### by @neauiore and friends
+#### by Devine and friends
 ---
 ## ntain
 ---
