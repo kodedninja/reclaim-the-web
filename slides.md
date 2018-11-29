@@ -53,6 +53,14 @@
 ---
 ## dat:// is kind of like file://
 ---
+## The P2P Web embodies 3 principles:
+---
+### ▪ Anybody can be a server.
+### ▪ Multiple computers can serve the same site.
+### ▪ There is no back end.
+
+##### <div class="mt2 tar"><a href="http://pfrazee.github.io/blog/what-is-the-p2p-web">Paul Frazee ― What is the P2P Web?</a></div>
+---
 # Pro
 ---
 ### ▪ Cannot be shut down.
