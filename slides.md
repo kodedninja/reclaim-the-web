@@ -5,35 +5,7 @@
 # I'm a
 # peer
 ---
-## http://
----
 ## Client ― Server
----
-## Client
-<br>
-
-#### ▪ Relatively untrusted member of the network
-<br>
-
-#### ▪ Allowed to read
-|
-#### <span class="tcgrey">Coordination</span>
-<br>
-
-#### <span class="tcgrey">Authentication</span>
-<br>
-
-#### <span class="tcgrey">Authorization</span>
-|
-## Server
-<br>
-
-#### ▪ Trusted authority
-<br>
-
-#### ▪ Allowed to write
----
-## We have some problems here.
 ---
 ![Image of network types](/assets/images/networks.png)
 ---
@@ -41,41 +13,21 @@
 
 ##### <div class="mt2 tar">https://github.com/kappa-db/workshop</div>
 ---
-## Server = Client
+## http:// is just misused.
 ---
-## <span class="tcgrey">~~Server = Client~~</span>
+## Client = Server
+---
+## <span class="tcgrey">~~Client = Server~~</span>
 
-## Peer
----
-## Everyone's a peer.
+## Everyone's a Peer.
 ---
 ## dat://
 ---
 ## dat:// is kind of like file://
 ---
-## The P2P Web embodies 3 principles:
----
-### ▪ Anybody can be a server.
-### ▪ Multiple computers can serve the same site.
-### ▪ There is no back end.
+### The P2P Web embodies 3 principles:
+<div class="mb2"></div>
 
-##### <div class="mt2 tar"><a href="http://pfrazee.github.io/blog/what-is-the-p2p-web">Paul Frazee ― What is the P2P Web?</a></div>
----
-# Pro
----
-### ▪ Cannot be shut down.
-### ▪ Works well offline.
-### ▪ Scales very-well.
-### ▪ No authentication required.
----
-# Contra
----
-### ▪ No peers = not available.
-### ▪ Slower network updates.
-### ▪ Your computer is open for strangers (kinda).
----
-## The P2P Web embodies 3 principles:
----
 ### ▪ Anybody can be a server.
 ### ▪ Multiple computers can serve the same site.
 ### ▪ There is no back end.
@@ -86,17 +38,29 @@
 
 ##### <div class="mt2 tar"><a href="http://pfrazee.github.io/blog/what-is-the-p2p-web">Paul Frazee ― What is the P2P Web?</a></div>
 ---
+# Pro
+---
+### ▪ Cannot be shut down.
+### ▪ Works well offline.
+### ▪ Scales very-well.
+### ▪ Authentication is not required.
+---
+# Contra
+---
+### ▪ No peers = Not available
+### ▪ Your computer is open for strangers (kind of).
+---
 ## Beaker Browser
 ---
 ## It's like a no man's land for sites.
 ---
-## Forget about how HTTP applications work.
+## Applications on the P2P web:
 ---
-### 1. There is no centralized database or user accounts.
+### 1. Don't use a centralized database or user accounts.
 ---
-### 2. Your data is stored locally in your filesystem.
+### 2. Store your data locally in your filesystem.
 ---
-### 3. You grant the application read/write permission.
+### 3. You grant them read/write permission.
 ---
 ![Loop](/assets/images/loop.png)
 ---
@@ -123,10 +87,6 @@
 ---
 #### <a href="dat://4d093ba886c7f9a299da6d3b23b8974b1ba1dffc73b822a96a2fcf6304ca6497/">dat://4d093ba886c7f9a299da6d3b23b8974b1ba1dffc73b822a96a2fcf6304ca6497/</a>
 ---
-## Ridder
----
-#### <a href="dat://rdr.seed.hex22.org/">dat://rdr.seed.hex22.org/</a>
----
 ## Hypercast
 ---
 ![Hypercast screenshot](/assets/images/hypercast.png)
@@ -143,7 +103,7 @@
 ---
 ## Thinking about the mainstream...
 ---
-## ...about more HTTP in Dat.
+## ...about more http:// in Dat.
 ---
 ## New Store
 ---
@@ -169,12 +129,10 @@
 ---
 # Ambient
 ---
-### "Ambient music must be able to accommodate many levels of listening attention without enforcing one in particular; it must be as ignorable as it is interesting." ― Brian Eno
+### Brian Eno about ambient music: "... it must be as ignorable as it is interesting."
 ---
-### "How can we make the Web work independently from the Internet?"
+## "How can we make the Web work independently from the Internet?"
 
 ##### <div class="mt2 tar">André Staltz</div>
----
-## Are you my peer?
 ---
 #### [https://are.na/hunor-karaman/for-reclaim-the-web](https://are.na/hunor-karaman/for-reclaim-the-web)
