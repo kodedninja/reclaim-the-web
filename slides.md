@@ -47,13 +47,13 @@
 ---
 # Contra
 ---
-### ▪ No peers = Not available
-### ▪ Your computer is open to strangers (kind of).
-### ▪ Trust is necessary.
+### ▪ Not available without peers.
+### ▪ Your computer is open to strangers.
+### ▪ You must trust your peers.
 ---
 ## Beaker Browser
 ---
-## Offline
+## 100% offline-first
 ---
 ## It's like a no man's land for sites.
 ---

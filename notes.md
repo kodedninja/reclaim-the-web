@@ -2,7 +2,7 @@ Intro
 Join
 Story
 Client - Server model's two "classes", "ranks", "groups"
-http servers are too complex and strict for simple tasks.
+http servers are too complex and strict for simple tasks. dropbox for syncing when 2 peers aren't available.
 network types: decent example: email
 what are peers
 client = server
