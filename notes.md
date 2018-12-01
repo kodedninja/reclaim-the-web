@@ -1,5 +1,6 @@
 Intro
 Join
+Structure
 Story
 Client - Server model's two "classes", "ranks", "groups"
 http servers are too complex and strict for simple tasks. dropbox for syncing when 2 peers aren't available.

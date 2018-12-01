@@ -2,6 +2,14 @@
 ---
 ### [https://brussels.seed.hex22.org/](https://brussels.seed.hex22.org/)
 ---
+### 1. Introduction
+<br>
+
+### 2. Lots of examples
+<br>
+
+### 3. Ambient
+---
 # I'm a
 # peer
 ---
