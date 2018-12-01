@@ -8,7 +8,7 @@ what are peers
 client = server
 everyone's a peer
 dat = distributed archive transport
-dat is just a file-sharing protocol + the web (frontend) is just files
+dat is just a file-sharing protocol
 p2p web principles
 p2p web browser
 pro
@@ -24,3 +24,7 @@ Store your data in your filesystem
 Permissions
 Recap of how they work
 Platforms -> Tools
+
+seeder: "always on user"
+
+progressively including these new protocols into existing solutions

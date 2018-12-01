@@ -11,7 +11,7 @@
 ---
 ![Image of network types](/assets/images/networks.png)
 ---
-### "In a decentralized or peer-to-peer model, every peer is an equal authority in the network."
+### "In a decentralized or peer-to-peer model, every peer is an <u>_equal_</u> authority in the network."
 
 ##### <div class="mt2 tar">https://github.com/kappa-db/workshop</div>
 ---
@@ -34,7 +34,7 @@
 
 ##### <div class="mt2 tar"><a href="http://pfrazee.github.io/blog/what-is-the-p2p-web">Paul Frazee ― What is the P2P Web?</a></div>
 ---
-### "Once integrated into a browser, these principles enable users to publish independently of services, and move between applications freely."
+### "Once integrated into a browser, these principles enable users to <u>_publish independently_</u> of services, and move between applications freely."
 
 ##### <div class="mt2 tar"><a href="http://pfrazee.github.io/blog/what-is-the-p2p-web">Paul Frazee ― What is the P2P Web?</a></div>
 ---
@@ -126,10 +126,6 @@
 ---
 ## ...about more http:// in Dat.
 ---
-## New Store
----
-## Pinning / Seeding
----
 ## Soundscape
 ---
 ### Tools that make my life easier.
@@ -138,7 +134,7 @@
 ---
 ## Is this production-ready?
 ---
-### "From [researchers in universities](http://datproject.org) all the way to the [remote reaches of the amazon rainforest](http://mapeo.world), people are already using the tools you're learning in this workshop."
+### "From [researchers in universities](http://datproject.org) all the way to the [remote reaches of the amazon rainforest](http://mapeo.world), people are already using these tools..."
 
 ##### <div class="mt2 tar">https://github.com/kappa-db/workshop</div>
 ---
